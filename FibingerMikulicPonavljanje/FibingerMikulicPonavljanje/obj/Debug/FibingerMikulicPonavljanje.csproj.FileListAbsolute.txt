@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\FibingerMikulicPonavljanje\FibingerMikulicPonavljanje\obj\Debug\FibingerMikulicPonavljanje.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\FibingerMikulicPonavljanje\FibingerMikulicPonavljanje\obj\Debug\FibingerMikulicPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\FibingerMikulicPonavljanje\FibingerMikulicPonavljanje\bin\Debug\FibingerMikulicPonavljanje.exe.config
+C:\Users\Učenik\source\repos\FibingerMikulicPonavljanje\FibingerMikulicPonavljanje\bin\Debug\FibingerMikulicPonavljanje.exe
+C:\Users\Učenik\source\repos\FibingerMikulicPonavljanje\FibingerMikulicPonavljanje\bin\Debug\FibingerMikulicPonavljanje.pdb
+C:\Users\Učenik\source\repos\FibingerMikulicPonavljanje\FibingerMikulicPonavljanje\obj\Debug\FibingerMikulicPonavljanje.exe
+C:\Users\Učenik\source\repos\FibingerMikulicPonavljanje\FibingerMikulicPonavljanje\obj\Debug\FibingerMikulicPonavljanje.pdb
